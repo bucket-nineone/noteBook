@@ -1,0 +1,368 @@
+{
+  "msg": "操作成功",
+  "code": 0,
+  "data": [
+    {
+      "areaName": "广东省",
+      "areaCode": "440000",
+      "items": [
+        {
+          "areaName": "广州市",
+          "areaCode": "440100",
+          "items": [
+            { "areaName": "荔湾区", "areaCode": "440103", "items": [] },
+            { "areaName": "越秀区", "areaCode": "440104", "items": [] },
+            { "areaName": "海珠区", "areaCode": "440105", "items": [] },
+            { "areaName": "天河区", "areaCode": "440106", "items": [] },
+            { "areaName": "白云区", "areaCode": "440111", "items": [] },
+            { "areaName": "黄埔区", "areaCode": "440112", "items": [] },
+            { "areaName": "番禺区", "areaCode": "440113", "items": [] },
+            { "areaName": "花都区", "areaCode": "440114", "items": [] },
+            { "areaName": "南沙区", "areaCode": "440115", "items": [] },
+            { "areaName": "萝岗区", "areaCode": "440116", "items": [] },
+            { "areaName": "增城区", "areaCode": "440183", "items": [] },
+            { "areaName": "从化区", "areaCode": "440184", "items": [] },
+            { "areaName": "东山区", "areaCode": "440188", "items": [] },
+            { "areaName": "其它区", "areaCode": "440189", "items": [] }
+          ]
+        },
+        {
+          "areaName": "韶关市",
+          "areaCode": "440200",
+          "items": [
+            { "areaName": "武江区", "areaCode": "440203", "items": [] },
+            { "areaName": "浈江区", "areaCode": "440204", "items": [] },
+            { "areaName": "曲江区", "areaCode": "440205", "items": [] },
+            { "areaName": "始兴县", "areaCode": "440222", "items": [] },
+            { "areaName": "仁化县", "areaCode": "440224", "items": [] },
+            { "areaName": "翁源县", "areaCode": "440229", "items": [] },
+            { "areaName": "乳源瑶族自治县", "areaCode": "440232", "items": [] },
+            { "areaName": "新丰县", "areaCode": "440233", "items": [] },
+            { "areaName": "乐昌市", "areaCode": "440281", "items": [] },
+            { "areaName": "南雄市", "areaCode": "440282", "items": [] },
+            { "areaName": "其它区", "areaCode": "440283", "items": [] }
+          ]
+        },
+        {
+          "areaName": "深圳市",
+          "areaCode": "440300",
+          "items": [
+            { "areaName": "深汕特别合作区", "areaCode": "440324", "items": [] },
+            { "areaName": "罗湖区", "areaCode": "440303", "items": [] },
+            { "areaName": "福田区", "areaCode": "440304", "items": [] },
+            { "areaName": "南山区", "areaCode": "440305", "items": [] },
+            { "areaName": "宝安区", "areaCode": "440306", "items": [] },
+            { "areaName": "龙岗区", "areaCode": "440307", "items": [] },
+            { "areaName": "盐田区", "areaCode": "440308", "items": [] },
+            { "areaName": "其它区", "areaCode": "440309", "items": [] },
+            { "areaName": "光明新区", "areaCode": "440320", "items": [] },
+            { "areaName": "坪山新区", "areaCode": "440321", "items": [] },
+            { "areaName": "大鹏新区", "areaCode": "440322", "items": [] },
+            { "areaName": "龙华新区", "areaCode": "440323", "items": [] }
+          ]
+        },
+        {
+          "areaName": "珠海市",
+          "areaCode": "440400",
+          "items": [
+            { "areaName": "横琴新区", "areaCode": "440405", "items": [] },
+            { "areaName": "高新区", "areaCode": "440406", "items": [] },
+            { "areaName": "高栏港区", "areaCode": "440407", "items": [] },
+            { "areaName": "香洲区", "areaCode": "440402", "items": [] },
+            { "areaName": "斗门区", "areaCode": "440403", "items": [] },
+            { "areaName": "金湾区", "areaCode": "440404", "items": [] },
+            { "areaName": "金唐区", "areaCode": "440486", "items": [] },
+            { "areaName": "南湾区", "areaCode": "440487", "items": [] },
+            { "areaName": "其它区", "areaCode": "440488", "items": [] }
+          ]
+        },
+        {
+          "areaName": "汕头市",
+          "areaCode": "440500",
+          "items": [
+            { "areaName": "龙湖区", "areaCode": "440507", "items": [] },
+            { "areaName": "金平区", "areaCode": "440511", "items": [] },
+            { "areaName": "濠江区", "areaCode": "440512", "items": [] },
+            { "areaName": "潮阳区", "areaCode": "440513", "items": [] },
+            { "areaName": "潮南区", "areaCode": "440514", "items": [] },
+            { "areaName": "澄海区", "areaCode": "440515", "items": [] },
+            { "areaName": "南澳县", "areaCode": "440523", "items": [] },
+            { "areaName": "其它区", "areaCode": "440524", "items": [] }
+          ]
+        },
+        {
+          "areaName": "佛山市",
+          "areaCode": "440600",
+          "items": [
+            { "areaName": "禅城区", "areaCode": "440604", "items": [] },
+            { "areaName": "南海区", "areaCode": "440605", "items": [] },
+            { "areaName": "顺德区", "areaCode": "440606", "items": [] },
+            { "areaName": "三水区", "areaCode": "440607", "items": [] },
+            { "areaName": "高明区", "areaCode": "440608", "items": [] },
+            { "areaName": "其它区", "areaCode": "440609", "items": [] }
+          ]
+        },
+        {
+          "areaName": "江门市",
+          "areaCode": "440700",
+          "items": [
+            { "areaName": "蓬江区", "areaCode": "440703", "items": [] },
+            { "areaName": "江海区", "areaCode": "440704", "items": [] },
+            { "areaName": "新会区", "areaCode": "440705", "items": [] },
+            { "areaName": "台山市", "areaCode": "440781", "items": [] },
+            { "areaName": "开平市", "areaCode": "440783", "items": [] },
+            { "areaName": "鹤山市", "areaCode": "440784", "items": [] },
+            { "areaName": "恩平市", "areaCode": "440785", "items": [] },
+            { "areaName": "其它区", "areaCode": "440786", "items": [] }
+          ]
+        },
+        {
+          "areaName": "湛江市",
+          "areaCode": "440800",
+          "items": [
+            { "areaName": "赤坎区", "areaCode": "440802", "items": [] },
+            { "areaName": "霞山区", "areaCode": "440803", "items": [] },
+            { "areaName": "坡头区", "areaCode": "440804", "items": [] },
+            { "areaName": "麻章区", "areaCode": "440811", "items": [] },
+            { "areaName": "遂溪县", "areaCode": "440823", "items": [] },
+            { "areaName": "徐闻县", "areaCode": "440825", "items": [] },
+            { "areaName": "廉江市", "areaCode": "440881", "items": [] },
+            { "areaName": "雷州市", "areaCode": "440882", "items": [] },
+            { "areaName": "吴川市", "areaCode": "440883", "items": [] },
+            { "areaName": "其它区", "areaCode": "440884", "items": [] }
+          ]
+        },
+        {
+          "areaName": "茂名市",
+          "areaCode": "440900",
+          "items": [
+            { "areaName": "茂南区", "areaCode": "440902", "items": [] },
+            { "areaName": "电白区", "areaCode": "440903", "items": [] },
+            { "areaName": "电白县", "areaCode": "440923", "items": [] },
+            { "areaName": "高州市", "areaCode": "440981", "items": [] },
+            { "areaName": "化州市", "areaCode": "440982", "items": [] },
+            { "areaName": "信宜市", "areaCode": "440983", "items": [] },
+            { "areaName": "其它区", "areaCode": "440984", "items": [] }
+          ]
+        },
+        {
+          "areaName": "肇庆市",
+          "areaCode": "441200",
+          "items": [
+            { "areaName": "端州区", "areaCode": "441202", "items": [] },
+            { "areaName": "鼎湖区", "areaCode": "441203", "items": [] },
+            { "areaName": "广宁县", "areaCode": "441223", "items": [] },
+            { "areaName": "怀集县", "areaCode": "441224", "items": [] },
+            { "areaName": "封开县", "areaCode": "441225", "items": [] },
+            { "areaName": "德庆县", "areaCode": "441226", "items": [] },
+            { "areaName": "高要市", "areaCode": "441283", "items": [] },
+            { "areaName": "四会市", "areaCode": "441284", "items": [] },
+            { "areaName": "其它区", "areaCode": "441285", "items": [] }
+          ]
+        },
+        {
+          "areaName": "惠州市",
+          "areaCode": "441300",
+          "items": [
+            { "areaName": "惠城区", "areaCode": "441302", "items": [] },
+            { "areaName": "惠阳区", "areaCode": "441303", "items": [] },
+            { "areaName": "博罗县", "areaCode": "441322", "items": [] },
+            { "areaName": "惠东县", "areaCode": "441323", "items": [] },
+            { "areaName": "龙门县", "areaCode": "441324", "items": [] },
+            { "areaName": "其它区", "areaCode": "441325", "items": [] }
+          ]
+        },
+        {
+          "areaName": "梅州市",
+          "areaCode": "441400",
+          "items": [
+            { "areaName": "梅江区", "areaCode": "441402", "items": [] },
+            { "areaName": "梅县区", "areaCode": "441421", "items": [] },
+            { "areaName": "大埔县", "areaCode": "441422", "items": [] },
+            { "areaName": "丰顺县", "areaCode": "441423", "items": [] },
+            { "areaName": "五华县", "areaCode": "441424", "items": [] },
+            { "areaName": "平远县", "areaCode": "441426", "items": [] },
+            { "areaName": "蕉岭县", "areaCode": "441427", "items": [] },
+            { "areaName": "兴宁市", "areaCode": "441481", "items": [] },
+            { "areaName": "其它区", "areaCode": "441482", "items": [] }
+          ]
+        },
+        {
+          "areaName": "汕尾市",
+          "areaCode": "441500",
+          "items": [
+            { "areaName": "城区", "areaCode": "441502", "items": [] },
+            { "areaName": "海丰县", "areaCode": "441521", "items": [] },
+            { "areaName": "陆河县", "areaCode": "441523", "items": [] },
+            { "areaName": "陆丰市", "areaCode": "441581", "items": [] },
+            { "areaName": "其它区", "areaCode": "441582", "items": [] }
+          ]
+        },
+        {
+          "areaName": "河源市",
+          "areaCode": "441600",
+          "items": [
+            { "areaName": "高新区", "areaCode": "441627", "items": [] },
+            { "areaName": "江东新区", "areaCode": "441628", "items": [] },
+            { "areaName": "源城区", "areaCode": "441602", "items": [] },
+            { "areaName": "紫金县", "areaCode": "441621", "items": [] },
+            { "areaName": "龙川县", "areaCode": "441622", "items": [] },
+            { "areaName": "连平县", "areaCode": "441623", "items": [] },
+            { "areaName": "和平县", "areaCode": "441624", "items": [] },
+            { "areaName": "东源县", "areaCode": "441625", "items": [] },
+            { "areaName": "其它区", "areaCode": "441626", "items": [] }
+          ]
+        },
+        {
+          "areaName": "阳江市",
+          "areaCode": "441700",
+          "items": [
+            { "areaName": "江城区", "areaCode": "441702", "items": [] },
+            { "areaName": "阳西县", "areaCode": "441721", "items": [] },
+            { "areaName": "阳东区", "areaCode": "441723", "items": [] },
+            { "areaName": "阳春市", "areaCode": "441781", "items": [] },
+            { "areaName": "其它区", "areaCode": "441782", "items": [] }
+          ]
+        },
+        {
+          "areaName": "清远市",
+          "areaCode": "441800",
+          "items": [
+            { "areaName": "清城区", "areaCode": "441802", "items": [] },
+            { "areaName": "佛冈县", "areaCode": "441821", "items": [] },
+            { "areaName": "阳山县", "areaCode": "441823", "items": [] },
+            {
+              "areaName": "连山壮族瑶族自治县",
+              "areaCode": "441825",
+              "items": []
+            },
+            { "areaName": "连南瑶族自治县", "areaCode": "441826", "items": [] },
+            { "areaName": "清新区", "areaCode": "441827", "items": [] },
+            { "areaName": "英德市", "areaCode": "441881", "items": [] },
+            { "areaName": "连州市", "areaCode": "441882", "items": [] },
+            { "areaName": "其它区", "areaCode": "441883", "items": [] }
+          ]
+        },
+        {
+          "areaName": "东莞市",
+          "areaCode": "441900",
+          "items": [
+            { "areaName": "东城街道", "areaCode": "441901003", "items": [] },
+            { "areaName": "南城街道", "areaCode": "441901004", "items": [] },
+            { "areaName": "万江街道", "areaCode": "441901005", "items": [] },
+            { "areaName": "莞城街道", "areaCode": "441901006", "items": [] },
+            { "areaName": "石碣镇", "areaCode": "441901101", "items": [] },
+            { "areaName": "石龙镇", "areaCode": "441901102", "items": [] },
+            { "areaName": "茶山镇", "areaCode": "441901103", "items": [] },
+            { "areaName": "石排镇", "areaCode": "441901104", "items": [] },
+            { "areaName": "企石镇", "areaCode": "441901105", "items": [] },
+            { "areaName": "横沥镇", "areaCode": "441901106", "items": [] },
+            { "areaName": "桥头镇", "areaCode": "441901107", "items": [] },
+            { "areaName": "谢岗镇", "areaCode": "441901108", "items": [] },
+            { "areaName": "东坑镇", "areaCode": "441901109", "items": [] },
+            { "areaName": "常平镇", "areaCode": "441901110", "items": [] },
+            { "areaName": "寮步镇", "areaCode": "441901111", "items": [] },
+            { "areaName": "樟木头镇", "areaCode": "441901112", "items": [] },
+            { "areaName": "大朗镇", "areaCode": "441901113", "items": [] },
+            { "areaName": "黄江镇", "areaCode": "441901114", "items": [] },
+            { "areaName": "清溪镇", "areaCode": "441901115", "items": [] },
+            { "areaName": "塘厦镇", "areaCode": "441901116", "items": [] },
+            { "areaName": "凤岗镇", "areaCode": "441901117", "items": [] },
+            { "areaName": "大岭山镇", "areaCode": "441901118", "items": [] },
+            { "areaName": "长安镇", "areaCode": "441901119", "items": [] },
+            { "areaName": "虎门镇", "areaCode": "441901121", "items": [] },
+            { "areaName": "厚街镇", "areaCode": "441901122", "items": [] },
+            { "areaName": "沙田镇", "areaCode": "441901123", "items": [] },
+            { "areaName": "道滘镇", "areaCode": "441901124", "items": [] },
+            { "areaName": "洪梅镇", "areaCode": "441901125", "items": [] },
+            { "areaName": "麻涌镇", "areaCode": "441901126", "items": [] },
+            { "areaName": "望牛墩镇", "areaCode": "441901127", "items": [] },
+            { "areaName": "中堂镇", "areaCode": "441901128", "items": [] },
+            { "areaName": "高埗镇", "areaCode": "441901129", "items": [] },
+            {
+              "areaName": "松山湖管委会",
+              "areaCode": "441901401",
+              "items": []
+            },
+            {
+              "areaName": "虎门港管委会",
+              "areaCode": "441901402",
+              "items": []
+            },
+            { "areaName": "东莞生态园", "areaCode": "441901403", "items": [] }
+          ]
+        },
+        {
+          "areaName": "中山市",
+          "areaCode": "442000",
+          "items": [
+            { "areaName": "石岐区街道", "areaCode": "442001001", "items": [] },
+            { "areaName": "东区街道", "areaCode": "442001002", "items": [] },
+            {
+              "areaName": "火炬开发区街道",
+              "areaCode": "442001003",
+              "items": []
+            },
+            { "areaName": "西区街道", "areaCode": "442001004", "items": [] },
+            { "areaName": "南区街道", "areaCode": "442001005", "items": [] },
+            { "areaName": "五桂山街道", "areaCode": "442001006", "items": [] },
+            { "areaName": "小榄镇", "areaCode": "442001100", "items": [] },
+            { "areaName": "黄圃镇", "areaCode": "442001101", "items": [] },
+            { "areaName": "民众镇", "areaCode": "442001102", "items": [] },
+            { "areaName": "东凤镇", "areaCode": "442001103", "items": [] },
+            { "areaName": "东升镇", "areaCode": "442001104", "items": [] },
+            { "areaName": "古镇镇", "areaCode": "442001105", "items": [] },
+            { "areaName": "沙溪镇", "areaCode": "442001106", "items": [] },
+            { "areaName": "坦洲镇", "areaCode": "442001107", "items": [] },
+            { "areaName": "港口镇", "areaCode": "442001108", "items": [] },
+            { "areaName": "三角镇", "areaCode": "442001109", "items": [] },
+            { "areaName": "横栏镇", "areaCode": "442001110", "items": [] },
+            { "areaName": "南头镇", "areaCode": "442001111", "items": [] },
+            { "areaName": "阜沙镇", "areaCode": "442001112", "items": [] },
+            { "areaName": "南朗镇", "areaCode": "442001113", "items": [] },
+            { "areaName": "三乡镇", "areaCode": "442001114", "items": [] },
+            { "areaName": "板芙镇", "areaCode": "442001115", "items": [] },
+            { "areaName": "大涌镇", "areaCode": "442001116", "items": [] },
+            { "areaName": "神湾镇", "areaCode": "442001117", "items": [] }
+          ]
+        },
+        {
+          "areaName": "潮州市",
+          "areaCode": "445100",
+          "items": [
+            { "areaName": "湘桥区", "areaCode": "445102", "items": [] },
+            { "areaName": "潮安区", "areaCode": "445121", "items": [] },
+            { "areaName": "饶平县", "areaCode": "445122", "items": [] },
+            { "areaName": "枫溪区", "areaCode": "445185", "items": [] },
+            { "areaName": "其它区", "areaCode": "445186", "items": [] }
+          ]
+        },
+        {
+          "areaName": "揭阳市",
+          "areaCode": "445200",
+          "items": [
+            { "areaName": "榕城区", "areaCode": "445202", "items": [] },
+            { "areaName": "揭东区", "areaCode": "445221", "items": [] },
+            { "areaName": "揭西县", "areaCode": "445222", "items": [] },
+            { "areaName": "惠来县", "areaCode": "445224", "items": [] },
+            { "areaName": "普宁市", "areaCode": "445281", "items": [] },
+            { "areaName": "东山区", "areaCode": "445284", "items": [] },
+            { "areaName": "其它区", "areaCode": "445285", "items": [] }
+          ]
+        },
+        {
+          "areaName": "云浮市",
+          "areaCode": "445300",
+          "items": [
+            { "areaName": "云城区", "areaCode": "445302", "items": [] },
+            { "areaName": "新兴县", "areaCode": "445321", "items": [] },
+            { "areaName": "郁南县", "areaCode": "445322", "items": [] },
+            { "areaName": "云安区", "areaCode": "445323", "items": [] },
+            { "areaName": "罗定市", "areaCode": "445381", "items": [] },
+            { "areaName": "其它区", "areaCode": "445382", "items": [] }
+          ]
+        }
+      ]
+    }
+  ]
+}
