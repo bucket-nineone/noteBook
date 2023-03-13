@@ -1047,9 +1047,11 @@ app.get("test",(req,res,next)=>{
 
 用于统一捕获处理过程中的异常,错误中间件写在最后面,listen之前.多了一个err参数
 
-```
+```js
 app.use("/",(err,req,res,next)=>{
-     err:表示请求过程中的错误信息
+     err.stack
+    res.status(500).send('xxxx')
+     
 })
 ```
 
